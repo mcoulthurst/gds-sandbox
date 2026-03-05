@@ -1,5 +1,5 @@
 {
-  "serviceName": "Service name goes here",
+  "serviceName": "Prototype sandbox",
   "useServiceNavigation": true,
   "plugins": {
     "govuk-frontend": {
